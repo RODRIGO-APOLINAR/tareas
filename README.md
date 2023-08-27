@@ -16,3 +16,5 @@ TAREA 1.2
 cuestionario
 
 [![1scan.jpg](https://i.postimg.cc/8Cdkdc8S/1scan.jpg)](https://postimg.cc/f3LhDwT2)
+[![2scan.jpg](https://i.postimg.cc/tTSjDV2L/2scan.jpg)](https://postimg.cc/0MwFyrgf)
+[![3scan.jpg](https://i.postimg.cc/bN2hHrbB/3scan.jpg)](https://postimg.cc/JGmvR1pN)
