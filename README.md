@@ -1,7 +1,7 @@
 la guerra secreta de Alan Turing
 
 
-a pesar de las contribucines que Alan Turing hizo en la epoca de la segunda guerra mundial,jamas fue reconocido por eso
+a pesar de las contribucines que Alan Turing hizo en la epoca de la segunda guerra mundial,jamas fue reconocido por eso,
 en cambio fue discriminado y condenado a vivir una vida que poco o nada era digna para un ser humano,muriendo en su cama en 1954, 
 se presume que fue una manzana la que ejecuto el acto.
 
