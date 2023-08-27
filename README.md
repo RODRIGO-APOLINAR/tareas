@@ -8,6 +8,11 @@ se presume que fue una manzana la que ejecuto el acto.
 
 [![250-sin-t-tulo-20230827162304.png](https://i.postimg.cc/tChpF8tQ/250-sin-t-tulo-20230827162304.png)](https://postimg.cc/PPrgj3R2)
 
+
+
+
+
+TAREA 1.2
 cuestionario
 
 [![1scan.jpg](https://i.postimg.cc/8Cdkdc8S/1scan.jpg)](https://postimg.cc/f3LhDwT2)
