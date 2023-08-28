@@ -32,5 +32,5 @@ en esta tarea nos plantearemos las siguientes pereguntas:
 [![2scan.jpg](https://i.postimg.cc/tTSjDV2L/2scan.jpg)](https://postimg.cc/0MwFyrgf)
 [![3scan.jpg](https://i.postimg.cc/bN2hHrbB/3scan.jpg)](https://postimg.cc/JGmvR1pN)
 
-
-https://www.veed.io/view/b977537e-2368-42fd-b0f6-b23b0b9fd4ee?sharingWidget=true&panel=
+(enlace al video de la tera 1.2
+(https://www.veed.io/view/b977537e-2368-42fd-b0f6-b23b0b9fd4ee?sharingWidget=true&panel=))
