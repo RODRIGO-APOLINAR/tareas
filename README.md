@@ -24,13 +24,15 @@ en esta tarea nos plantearemos las siguientes pereguntas:
 ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?.
 
 
-vinvulo del video(https://drive.google.com/file/d/1CvAgnyR0fmRgmI1RML5Dp7Ph1H2tL0DK/view?usp=sharing)
+
 
 
 
 [![1scan.jpg](https://i.postimg.cc/8Cdkdc8S/1scan.jpg)](https://postimg.cc/f3LhDwT2)
 [![2scan.jpg](https://i.postimg.cc/tTSjDV2L/2scan.jpg)](https://postimg.cc/0MwFyrgf)
 [![3scan.jpg](https://i.postimg.cc/bN2hHrbB/3scan.jpg)](https://postimg.cc/JGmvR1pN)
+
+link del video(https://drive.google.com/file/d/1CvAgnyR0fmRgmI1RML5Dp7Ph1H2tL0DK/view?usp=sharing)
 
 
   PRACTICA 1.3
@@ -40,4 +42,4 @@ vinvulo del video(https://drive.google.com/file/d/1CvAgnyR0fmRgmI1RML5Dp7Ph1H2tL
   [![249-sin-t-tulo-20230827152136.png](https://i.postimg.cc/9fpnVH52/249-sin-t-tulo-20230827152136.png)](https://postimg.cc/PLC4zc5V)
 
 
-vinvulo del video:las partes de mi computadora(https://drive.google.com/file/d/1Czip8idXzXpBk1gfo-YRc1jakMzBv1ki/view?usp=sharing)
+link del video:las partes de mi computadora(https://drive.google.com/file/d/1Czip8idXzXpBk1gfo-YRc1jakMzBv1ki/view?usp=sharing)
