@@ -43,3 +43,13 @@ link del video(https://drive.google.com/file/d/1CvAgnyR0fmRgmI1RML5Dp7Ph1H2tL0DK
 
 
 link del video:las partes de mi computadora(https://drive.google.com/file/d/1Czip8idXzXpBk1gfo-YRc1jakMzBv1ki/view?usp=sharing)
+
+PRÁCTICA 1.4
+tabla comparativa 
+
+[![Documento-sin-t-tulo-2-page-0001.jpg](https://i.postimg.cc/8cnjwSGb/Documento-sin-t-tulo-2-page-0001.jpg)](https://postimg.cc/8fMpPxjF)
+
+link del video de la practica 1.4
+
+
+
