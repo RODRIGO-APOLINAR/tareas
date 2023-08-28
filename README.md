@@ -34,3 +34,12 @@ en esta tarea nos plantearemos las siguientes pereguntas:
 
 (enlace al video de la tera 1.2
 (https://www.veed.io/view/b977537e-2368-42fd-b0f6-b23b0b9fd4ee?sharingWidget=true&panel=))
+
+  PRACTICA 1.3
+
+  collage
+  
+  [![249-sin-t-tulo-20230827152136.png](https://i.postimg.cc/9fpnVH52/249-sin-t-tulo-20230827152136.png)](https://postimg.cc/PLC4zc5V)
+
+<< enlace para video de las piezas de una computadora>
+ <https://www.veed.io/view/63628d91-fd30-4991-84f8-7c7040ded1a4?sharingWidget=true&panel=>>
