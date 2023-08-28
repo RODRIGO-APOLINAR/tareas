@@ -50,7 +50,9 @@ tabla comparativa
 
 [![Documento-sin-t-tulo-2-page-0001.jpg](https://i.postimg.cc/8cnjwSGb/Documento-sin-t-tulo-2-page-0001.jpg)](https://postimg.cc/8fMpPxjF)
 
-link del video de la practica 1.4
+link del video de la practica 1.4(https://drive.google.com/file/d/1EG9b9o1a-FHSnspj_G2EQpCBpPYokMcS/view?usp=drivesdk)
+
+
 
 
 
