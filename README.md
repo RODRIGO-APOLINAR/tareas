@@ -56,7 +56,7 @@ link del video de la practica 1.4(https://drive.google.com/file/d/1EG9b9o1a-FHSn
 
 [![Sin-t-tulo.jpg](https://i.postimg.cc/sXw920nn/Sin-t-tulo.jpg)](https://postimg.cc/TL5W7Qvm)
 
-<img src="https://github.com/RODRIGO-APOLINAR/tareas/tree/main/imagenes#readme" alt="sin titulo.jpg" width="PORCENTAJE DE ANCHO %100"/>
+<img src="https://github.com/RODRIGO-APOLINAR/tareas/tree/main/imagenes#readme" alt="sin titulo" width="PORCENTAJE DE ANCHO %100"/>
 
 
 
