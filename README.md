@@ -54,5 +54,9 @@ link del video de la practica 1.4(https://drive.google.com/file/d/1EG9b9o1a-FHSn
 
 
 
+[![Sin-t-tulo.jpg](https://i.postimg.cc/sXw920nn/Sin-t-tulo.jpg)](https://postimg.cc/TL5W7Qvm)
+
+
+
 
 
